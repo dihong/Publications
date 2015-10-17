@@ -2,4 +2,4 @@
 Core program.
 
 # Publication
-"Orthogonal Gaussian Process for Large-Scale Automatic Age Estimation", ACM Multimedia, 2014.
+"Orthogonal Gaussian Process for Large-Scale Automatic Age Estimation", <br>K. Zhu <b>D. Gong</b>, Z. Li, X. Tang, ACM Multimedia, 2014.
