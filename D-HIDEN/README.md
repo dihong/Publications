@@ -17,7 +17,7 @@ If you determine the use our models, please copy these models to the same folder
 
 
 # Publication
-"Hierarchical Decomposition of Dynamically Evolving Regulatory Networks", <br>A. Ay*, <b>D. Gong*</b>, T. Kahveci, Journal of BMC Bioinformatics, 2015. (* Equal Contributors)
+"Hierarchical Decomposition of Dynamically Evolving Regulatory Networks", <br>A. Ay*, <b>D. Gong*</b>, T. Kahveci, Journal of BMC Bioinformatics, 2015.
 
 
 By Dihong in Jan 26, 2015.
