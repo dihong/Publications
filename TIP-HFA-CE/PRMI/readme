@@ -1,5 +1,0 @@
-To install this package:
-1) ./install.sh
-2) add the following paths in MATLAB:
-   /usr/local/PRMI/mex
-   /usr/local/PRMI/mfile
